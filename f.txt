@@ -1,0 +1,16 @@
+successful
+(1) Git     上传文件，例如f.txt文件，
+
+$ git init
+
+$ git add .
+
+$ git commit -m 'first commit'
+
+$ git remote add origin https://github.com/liao-github/test-1.git
+
+$ git pull --rebase origin master
+
+$ git push -u origin master
+
+$ git push origin master
